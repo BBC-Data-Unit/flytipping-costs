@@ -2,7 +2,7 @@
 
 ![](https://ichef.bbci.co.uk/news/624/cpsprodpb/13E59/production/_98379418_flytippingnew_birmingham_hp3z0-nc.png)
 
-In October 2017 we reported that over one million incidents of fly-tipping were dealt with by councils in England in 2016-17, costing taxpayers £58m to clear up. It was the fourth year in a row that incidents increased.
+In October 2017 we [reported that over one million incidents of fly-tipping were dealt with by councils in England in 2016-17](http://www.bbc.co.uk/news/uk-england-41664941), costing taxpayers £58m to clear up. It was the fourth year in a row that incidents increased.
 
 ## Get the data
 
